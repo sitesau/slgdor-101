@@ -1,0 +1,83 @@
+{
+  "kicker": "Roller Door Servicing Guide",
+  "h1_tail": "Common Faults and Repair Options Across the Ipswich Corridor",
+  "meta_hook": "Diagnose roller door problems, understand repair costs and find licensed specialists across Ipswich and Greater Springfield",
+  "takeaway": "Roller door repairs across the Ipswich area typically involve curtain wear, guide misalignment, drum faults and spring fatigue on corrugated roller doors common to residential properties throughout Springfield Lakes, Redbank Plains, Ripley and surrounding suburbs. Repairs are carried out by QBCC-licensed garage door specialists who diagnose the fault on site and quote a fixed price in writing. Most roller door repairs fall in the low-to-mid hundreds, with same-day attendance often available subject to specialist availability.",
+  "lead_tail": "means recognising the symptoms of roller door trouble, understanding what the repair involves, and knowing how to get it fixed.",
+  "stats": [
+    {"value": "4", "label": "main roller door fault categories"},
+    {"value": "Same day", "label": "attendance often available"},
+    {"value": "6+", "label": "roller door brands serviced"}
+  ],
+  "sections": [
+    {
+      "h2": "How roller doors fail across Ipswich",
+      "html": "<p>Corrugated roller doors are the most common garage door type found across residential properties in Springfield Lakes, Springfield Central, Augustine Heights, Bellbird Park, Camira and the wider Ipswich corridor. These doors consist of a corrugated steel curtain that rolls up around a drum above the opening, guided by tracks on either side. The mechanism relies on tension springs inside the drum, guide rollers running in the tracks, and a locking mechanism at the bottom of the curtain.</p><p>The main failure points are predictable. Curtain damage occurs from impact, corrosion or wear over years of daily use. Guide misalignment happens when the side tracks shift, causing the curtain to bind or scrape. Drum and spring faults develop from fatigue, producing a grinding noise or preventing the door from rolling smoothly. Lock failures leave the door unsecured or jammed in position. For a comprehensive guide to <a href=\"https://garage-door-repairs-springfield-lakes-guide.netlify.app\">garage door repairs springfield lakes</a>, the broader repair landscape is covered in detail.</p>"
+    },
+    {
+      "h2": "Diagnosing roller door problems",
+      "html": "<p>Homeowners can identify most roller door faults from the symptoms. A grinding or squealing noise during operation usually points to guide friction or drum bearing wear. A door that jumps or jerks while rolling may have a damaged curtain section or a misaligned guide track. A door that will not stay up or drops too quickly indicates spring tension loss. A door that is difficult to lock or unlock may have a misaligned locking bar or a worn lock mechanism.</p><p>The specialist confirms the diagnosis on site by inspecting the curtain condition, checking guide alignment, testing spring tension, and examining the locking mechanism. The inspection also identifies secondary issues that could cause future failures, such as early-stage corrosion on the curtain or minor guide wear that has not yet produced symptoms.</p>"
+    },
+    {
+      "h2": "Repair versus replacement",
+      "html": "<p>Most roller door faults can be repaired without replacing the entire door. Guide realignment, lock mechanism servicing, and curtain section repairs are routine jobs that restore the door to reliable operation. Spring tension adjustment or replacement addresses doors that do not stay up or drop too quickly. Drum bearing replacement eliminates grinding noises and smooths the rolling action.</p><p>Replacement becomes necessary when the curtain has extensive corrosion, multiple damaged sections, or structural deformation that compromises security. In these cases the specialist quotes a new curtain or complete roller door, including the drum, guides and locking mechanism. Brands common to the corridor include B&amp;D, Steel-Line, Gliderol and others, so replacement components match the existing door specification.</p>"
+    },
+    {
+      "h2": "Cost factors for roller door repairs",
+      "html": "<p>Roller door repair costs across Ipswich vary based on the fault type, the parts required and the door brand. Guide adjustments and lock servicing are at the lower end of the range, while spring replacement and curtain section repairs cost more. Most minor repairs fall in the low-to-mid hundreds. The specialist provides a fixed-price written quote after the on-site inspection, so there are no surprises.</p><p>Same-day callout availability varies by location and time of day. Suburbs closer to Springfield Central typically have faster response times than outer suburbs like Ripley or Forest Lake, though specialists cover the entire corridor. A no-callout-fee assessment means the homeowner can get a diagnosis and quote at no initial cost.</p>"
+    },
+    {
+      "h2": "Preventative maintenance for roller doors",
+      "html": "<p>Regular servicing extends the life of a roller door and reduces the likelihood of sudden failure. A maintenance check includes lubricating guide tracks and drum bearings, checking and adjusting spring tension, inspecting the curtain for early corrosion or damage, testing the locking mechanism, and verifying that the door rolls smoothly without binding or scraping.</p><p>Homeowners can perform basic upkeep between professional services by keeping the guide tracks clear of debris, wiping the curtain with a mild detergent to remove dirt and salt spray, and avoiding forcing the door if it sticks. Any persistent sticking, grinding or unusual movement should be referred to a specialist rather than forced, as this can cause further damage to the curtain or guides.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Roller door symptoms and likely causes",
+    "headers": ["Symptom", "Likely cause", "Repair approach"],
+    "rows": [
+      ["Grinding noise when rolling", "Drum bearing wear or guide friction", "Bearing replacement, guide lubrication"],
+      ["Door jumps or jerks", "Damaged curtain section or misaligned guide", "Curtain repair, guide realignment"],
+      ["Door drops or will not stay up", "Spring tension loss", "Spring tension adjustment or replacement"],
+      ["Lock difficult to operate", "Misaligned locking bar or worn lock", "Lock bar adjustment, lock replacement"],
+      ["Curtain corrosion visible", "Weather exposure over time", "Corrosion treatment or curtain section replacement"],
+      ["Door scrapes on one side", "Guide track shifted out of alignment", "Track realignment by specialist"]
+    ]
+  },
+  "howto": [
+    {"name": "Identify the symptom", "text": "Listen for grinding, watch for jerking or uneven rolling, test the lock, and note whether the door stays up on its own. Each symptom points to a specific fault."},
+    {"name": "Avoid forcing the door", "text": "If the door sticks, grinds or will not lock, do not force it. Continuing to operate a faulty roller door can cause further damage to the curtain or guides."},
+    {"name": "Contact a specialist", "text": "Provide your suburb and describe the symptom. A QBCC-licensed specialist from the network covering your area confirms the fault on site."},
+    {"name": "Approve the written quote", "text": "The specialist diagnoses the issue and provides a fixed-price quote. Approve the work only after reviewing the quote and understanding the repair scope."}
+  ],
+  "faq": [
+    {"q": "Can a roller door curtain be repaired or must it be replaced?", "a": "Most roller door faults can be repaired without replacing the entire curtain. Guide realignment, lock servicing and spring adjustment are routine. Full curtain replacement is recommended only when there is extensive corrosion or structural deformation."},
+    {"q": "How long do roller door springs last?", "a": "Roller door spring life depends on usage frequency and door weight. A spring that has lost tension can often be re-tensioned or replaced individually, extending the service life of the door without a full replacement."},
+    {"q": "Which roller door brands do specialists service?", "a": "Specialists work on brands common to the Ipswich corridor, including B&D, Steel-Line and Gliderol, so parts and replacement components match your existing door."}
+  ],
+  "about": [
+    {"name": "Garage door", "sameAs": "https://en.wikipedia.org/wiki/Garage_door"},
+    {"name": "Home improvement", "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"},
+    {"name": "Building code", "sameAs": "https://en.wikipedia.org/wiki/Building_code"}
+  ],
+  "mentions": [
+    {"name": "Tradesperson", "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"},
+    {"name": "Renovation", "sameAs": "https://en.wikipedia.org/wiki/Renovation"}
+  ],
+  "authorities": [
+    {"name": "Housing Industry Association", "url": "https://hia.com.au"},
+    {"name": "Master Builders Australia", "url": "https://www.masterbuilders.com.au"},
+    {"name": "ASIC Moneysmart: Renovating", "url": "https://moneysmart.gov.au"}
+  ],
+  "claims": [
+    {"claim": "Roller doors consist of a corrugated steel curtain rolling around a drum with side guides and tension springs", "source": "https://en.wikipedia.org/wiki/Garage_door"},
+    {"claim": "Common roller door faults include curtain wear, guide misalignment, drum faults and spring fatigue", "source": "money page"},
+    {"claim": "Most minor repairs fall in the low-to-mid hundreds", "source": "money page"},
+    {"claim": "Specialists provide a written fixed-price quote before any work begins", "source": "money page"},
+    {"claim": "Brands serviced include B&D, Steel-Line, Gliderol and others common to the corridor", "source": "money page"},
+    {"claim": "Same-day attendance is often available subject to specialist availability", "source": "money page"},
+    {"claim": "Specialists are QBCC-licensed", "source": "money page"},
+    {"claim": "Regular maintenance includes lubricating guides, checking spring tension and inspecting for corrosion", "source": "money page"},
+    {"claim": "Forcing a faulty roller door can cause further damage", "source": "money page"}
+  ],
+  "scope": "This guide covers roller door faults, diagnosis, repair versus replacement decisions, costs and preventative maintenance across the Ipswich and Greater Springfield corridor."
+}
