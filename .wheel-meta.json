@@ -1,9 +1,9 @@
 {
-  "wheel_id": 0,
+  "wheel_id": 11,
   "slug": "slgdor-101",
   "project": "roller-door-repairs-ipswich-guide",
   "parent_t1_ref": "slgdor-150",
-  "money_target": "https://www.springfieldlakesgaragedoors.com.au/",
+  "money_target": "springfieldlakesgaragedoors.com.au",
   "primary_kw": "roller door repairs ipswich",
   "intended_url": "https://roller-door-repairs-ipswich-guide.vercel.app",
   "links": [
